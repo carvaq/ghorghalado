@@ -1,0 +1,53 @@
+# Configuración de GitHub Pages para Ghorghalado
+
+Este archivo contiene las configuraciones necesarias para el despliegue en GitHub Pages.
+
+## Configuración básica
+baseurl: ""
+url: "https://carvaq.github.io"
+
+# Información del sitio
+title: "Ghorghalado - Mel de Galicia"
+description: "Descobre o mel Ghorghalado, un tesoro natural de Galicia con sabor único e propiedades excepcionais."
+lang: "gl"
+
+# Configuración de Jekyll (GitHub Pages usa Jekyll por defecto)
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Archivos y carpetas a excluir del sitio
+exclude:
+  - README.md
+  - COMO_EDITAR.md
+  - .gitignore
+
+# Archivos a incluir
+include:
+  - _pages
+  
+# Configuración de plugins (solo los soportados por GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuración SEO
+author: "Ghorghalado"
+twitter:
+  username: ghorghalado
+facebook:
+  publisher: ghorghalado
+
+# Configuración de navegación
+navigation:
+  - title: "Inicio"
+    url: "#inicio"
+  - title: "Sobre o Mel"
+    url: "#sobre-mel"
+  - title: "A Rexión"
+    url: "#rexion"
+  - title: "Propiedades"
+    url: "#propiedades"
+  - title: "Contacto"
+    url: "#contacto"

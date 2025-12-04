@@ -1,0 +1,92 @@
+{
+  "sections": [
+    {
+      "id": "sobre-mel",
+      "title": "Sobre o Mel Ghorghalado",
+      "description": "O mel Ghorghalado é un tesoro dourado das terras galegas, elaborado con amor e dedicación polas nosas abelas que percorren os montes en busca das mellores flores silvestres.",
+      "cards": [
+        {
+          "title": "Calidade Suprema",
+          "content": "Mel artesanal de primeira calidade, sen aditivos nin conservantes artificiais. Cada gota conserva o sabor puro e natural das flores galegas."
+        },
+        {
+          "title": "Proceso Tradicional",
+          "content": "Elaborado seguindo métodos tradicionais transmitidos de xeración en xeración, respectando sempre o medio ambiente e o benestar das abelas."
+        },
+        {
+          "title": "Sabor Único",
+          "content": "O seu sabor distintivo reflicte a riqueza floral dos montes galegos: notas de castiñeiro, uceira, silva e centos de flores silvestres."
+        }
+      ],
+      "additionalContent": [
+        {
+          "type": "paragraph",
+          "content": "O nome 'Ghorghalado' procede da tradición oral galega e fai referencia ao dourado esplendor que caracteriza este mel excepcional. É o resultado da harmonía perfecta entre a natureza salvaxe de Galicia e o traballo incansable das nosas abelas."
+        }
+      ]
+    },
+    {
+      "id": "rexion",
+      "title": "A Rexión dos Montes Galegos",
+      "description": "O mel Ghorghalado nace nos montes de Galicia, unha rexión privilexiada pola súa biodiversidade floral e as condicións climáticas ideais para a apicultura.",
+      "cards": [
+        {
+          "title": "Flora Diversa",
+          "content": "Os montes galegos albergan máis de 200 especies de plantas melíferas: castiñeiros centenarios, uceiras, silvas, carqueijas, toxos e unha inmensa variedade de flores silvestres."
+        },
+        {
+          "title": "Clima Oceánico",
+          "content": "O clima húmedo e templado de Galicia, influenciado polo océano Atlántico, crea as condicións perfectas para unha floración prolongada ao longo do ano."
+        },
+        {
+          "title": "Montes Preservados",
+          "content": "As nosas colmenas sitúanse en zonas montañosas preservadas, lonxe da contaminación urbana e da agricultura intensiva, garantindo a pureza do mel."
+        }
+      ],
+      "additionalContent": [
+        {
+          "type": "paragraph",
+          "content": "Esta rexión única, co seu mosaico de bosques atlánticos, prados naturais e torrentes cristalinas, proporciona ás abelas un paraíso floral que se reflicte na calidade excepcional do mel Ghorghalado."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Altitude entre 400 e 800 metros sobre o nivel do mar",
+            "Precipitacións abundantes que favorecen a floración",
+            "Temperaturas suaves que permiten unha longa temporada de pecoreo",
+            "Ausencia de pesticidas e contaminantes industriais"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "propiedades",
+      "title": "Propiedades e Beneficios",
+      "description": "O mel Ghorghalado non só destaca polo seu sabor excepcional, senón tamén polas súas propiedades nutritivas e terapéuticas únicas.",
+      "cards": [
+        {
+          "title": "Rico en Antioxidantes",
+          "content": "Contén unha alta concentración de antioxidantes naturais que axudan a combater os radicais libres e fortalecer o sistema inmunitario."
+        },
+        {
+          "title": "Propiedades Antimicrobianas",
+          "content": "As súas propiedades antimicrobianas naturais axudan na cicatrización e na loita contra infeccións, seguindo a tradición medicinal galega."
+        },
+        {
+          "title": "Enerxía Natural",
+          "content": "Fonte natural de enerxía grazas aos seus azucres naturais, ideal para deportistas e persoas con vida activa."
+        },
+        {
+          "title": "Digestivo",
+          "content": "Facilita a dixestión e axuda a manter un equilibrio na flora intestinal, segundo indica a medicina tradicional."
+        }
+      ],
+      "additionalContent": [
+        {
+          "type": "paragraph",
+          "content": "O mel Ghorghalado conserva todas as enzimas naturais e oligoelementos grazas ao noso proceso de extracción en frío, mantendo intactas todas as súas propiedades beneficiosas."
+        }
+      ]
+    }
+  ]
+}

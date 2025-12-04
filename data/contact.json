@@ -1,0 +1,20 @@
+{
+  "description": "Para coñecer máis sobre o mel Ghorghalado, os nosos procesos artesanais ou realizar pedidos, non dubides en poñerte en contacto connosco. Estaremos encantados de atenderte e compartir contigo a paixón polo noso mel galego.",
+  "email": "info@ghorghalado.gl",
+  "phone": "+34 xxx xxx xxx",
+  "address": "Montes de Galicia, Galicia, España",
+  "socialMedia": [
+    {
+      "name": "Instagram",
+      "url": "#"
+    },
+    {
+      "name": "Facebook",
+      "url": "#"
+    }
+  ],
+  "additionalInfo": {
+    "workingHours": "Luns a Venres: 9:00 - 18:00",
+    "languages": "Galego, Español"
+  }
+}
